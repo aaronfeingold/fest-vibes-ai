@@ -1,6 +1,8 @@
 [submodule "ajf-live-re-wire-client"]
 	path = ajf-live-re-wire-client
 	url = git@github.com:aaronfeingold/ajf-live-re-wire-client.git
+    branch = main
 [submodule "ajf-live-re-wire"]
 	path = ajf-live-re-wire
 	url = git@github.com:aaronfeingold/ajf-live-re-wire.git
+    branch = main
