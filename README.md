@@ -1,14 +1,15 @@
-# AJF Live Re-Wire
+# Fest Vibes AI
 
 ## Overview
 
-AJF Live Re-Wire is a comprehensive project aimed at scraping music event information from various online sources. It intends to organize this data by various properties: artist, venue, genre, location, etc, and presents it in a clean, user-friendly interface, allowing users to explore and discover upcoming music events.
+Orginally called the AJF Live Re-Wire, this project has morphed over time into Fest Vibes AI. The comprehensive project is aimed at scraping music event information from various online sources. It intends to organize this data by various properties: artist, venue, genre, location, etc, and presents it in a clean, user-friendly interface, allowing users to explore and discover upcoming music events. Not only does the frontend provide data insights, but at the heart of the app is Boomy, the chat interface providing personalized insights into your local night life. Together, the app envisions allowing users to have their own music festival organized to fit their unique 'vibe' any night of the week.
 
 The project consists of three major components:
 
-- **ETL Pipeline**: Scrapes event information from online sources and formats it.
-- **API**: User Registration and dashboard to save event information.
-- **Client**: Displays the event and subscription data in an intuitive interface.
+- **ETL Pipeline**: Scrapes event information from online sources and loads it.
+- **API**: User Registration, data analytics, and CMS.
+- **Client**: Dashboards, schedules, and chat interface. (Current version is deprecated)
+- **LangGraph RAG**: Retrieval-Augmented Generation system using LangChain for intelligent event recommendations and personalized insights. (Forthcoming)
 
 ## Purpose & Impact
 
