@@ -2,7 +2,7 @@
 
 ## Overview
 
-Orginally called the AJF Live Re-Wire, this project has morphed over time into Fest Vibes AI. The comprehensive project is aimed at scraping music event information from various online sources. It intends to organize this data by various properties: artist, venue, genre, location, etc, and presents it in a clean, user-friendly interface, allowing users to explore and discover upcoming music events. Not only does the frontend provide data insights, but at the heart of the app is Boomy, the chat interface providing personalized insights into your local night life. Together, the app envisions allowing users to have their own music festival organized to fit their unique 'vibe' any night of the week.
+The comprehensive project is aimed at scraping music event information from various online sources. It intends to organize this data by various properties: artist, venue, genre, location, etc, and presents it in a clean, user-friendly interface, allowing users to explore and discover upcoming music events. They can plan their nitelife days in advanced with friends, and even coordinate ride shares. Not only does the frontend provide data insights, but at the heart of the app is Boomy, the chat interface providing personalized insights into your local night life. Together, the app envisions allowing users to have their own music festival organized to fit their unique 'vibe' any night of the week.
 
 The project consists of three major components:
 
