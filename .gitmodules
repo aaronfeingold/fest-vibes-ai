@@ -6,3 +6,6 @@
 	path = fest-vibes-ai-ETL
 	url = git@github.com:aaronfeingold/fest-vibes-ai-ETL.git
     branch = main
+[submodule "fest-vibes-ai-landing-page"]
+	path = fest-vibes-ai-landing-page
+	url = git@github.com:aaronfeingold/fest-vibes-ai-landing-page.git
