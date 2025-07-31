@@ -1,8 +1,8 @@
-[submodule "ajf-live-re-wire-client"]
-	path = ajf-live-re-wire-client
-	url = git@github.com:aaronfeingold/ajf-live-re-wire-client.git
+[submodule "fest-vibes-ai-client"]
+	path = fest-vibes-ai-client
+	url = git@github.com:aaronfeingold/fest-vibes-ai-client.git
     branch = main
-[submodule "ajf-live-re-wire"]
-	path = ajf-live-re-wire
-	url = git@github.com:aaronfeingold/ajf-live-re-wire.git
+[submodule "fest-vibes-ai-ETL"]
+	path = fest-vibes-ai-ETL
+	url = git@github.com:aaronfeingold/fest-vibes-ai-ETL.git
     branch = main
